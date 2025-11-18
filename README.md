@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/FastAPI-–?style=flat&logo=fastapi&logoColor=white&labelColor=111&color=111" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/LangChain-–?style=flat&logo=chainlink&logoColor=white&labelColor=111&color=111" alt="LangChain"/>
   <img src="https://img.shields.io/badge/FAISS/PGVector-–?style=flat&logo=postgresql&logoColor=white&labelColor=111&color=111" alt="Vector DBs"/>
-  <img src="https://img.shields.io/badge/Docker-–?style=flat&logo=docker&logoColor=white&labelColor=111&color=111" alt="Docker"/>
-  <img src="https://img.shields.io/badge/W%26B/DVC-–?style=flat&logo=weightsandbiases&logoColor=white&labelColor=111&color=111" alt="W&B/DVC"/>
 </p>
 
 
