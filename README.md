@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Transformers-–?style=flat&logo=huggingface&logoColor=white&labelColor=111&color=111" alt="HF Transformers"/>
   <img src="https://img.shields.io/badge/FastAPI-–?style=flat&logo=fastapi&logoColor=white&labelColor=111&color=111" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/LangChain-–?style=flat&logo=chainlink&logoColor=white&labelColor=111&color=111" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/FAISS/PGVector-–?style=flat&logo=postgresql&logoColor=white&labelColor=111&color=111" alt="Vector DBs"/>
+  <img src="https://img.shields.io/badge/FAISS-–?style=flat&logo=postgresql&logoColor=white&labelColor=111&color=111" alt="Vector DBs"/>
 </p>
 
 
