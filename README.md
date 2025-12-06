@@ -34,44 +34,46 @@
 -->
 
 ## ⚙️ Tech stack
+
 #### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-–?style=flat&logo=python&logoColor=white&labelColor=111&color=111" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-–?style=flat&logo=c&logoColor=white&labelColor=111&color=111" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-–?style=flat&logo=cplusplus&logoColor=white&labelColor=111&color=111" alt="C++"/>
-  <img src="https://img.shields.io/badge/MATLAB-–?style=flat&logo=mathworks&logoColor=white&labelColor=111&color=111" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/SQL-–?style=flat&logo=postgresql&logoColor=white&labelColor=111&color=111" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Bash-–?style=flat&logo=gnu-bash&logoColor=white&labelColor=111&color=111" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Python-151515?style=flat&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-151515?style=flat&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-151515?style=flat&logo=cplusplus&logoColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/MATLAB-151515?style=flat&logo=mathworks&logoColor=e16737" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/SQL-151515?style=flat&logo=postgresql&logoColor=4169E1" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Bash-151515?style=flat&logo=gnu-bash&logoColor=4EAA25" alt="Bash"/>
 </p>
 
 #### AI, Gen AI & LLMs
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-–?style=flat&logo=pytorch&logoColor=white&labelColor=111&color=111" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-–?style=flat&logo=tensorflow&logoColor=white&labelColor=111&color=111" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-–?style=flat&logo=keras&logoColor=white&labelColor=111&color=111" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-–?style=flat&logo=scikitlearn&logoColor=white&labelColor=111&color=111" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-151515?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-151515?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-151515?style=flat&logo=keras&logoColor=D00000" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-151515?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/>
   <br>
-  <img src="https://img.shields.io/badge/Transformers-–?style=flat&logo=huggingface&logoColor=white&labelColor=111&color=111" alt="HF Transformers"/>
-  <img src="https://img.shields.io/badge/LangChain-–?style=flat&logo=langchain&logoColor=white&labelColor=111&color=111" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Ollama-–?style=flat&logo=ollama&logoColor=white&labelColor=111&color=111" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/LangGraph-–?style=flat&logo=python&logoColor=white&labelColor=111&color=111" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/FAISS-–?style=flat&logo=meta&logoColor=white&labelColor=111&color=111" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/OpenCV-–?style=flat&logo=opencv&logoColor=white&labelColor=111&color=111" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-151515?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-151515?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Ollama-151515?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/LangGraph-151515?style=flat&logo=python&logoColor=3776AB" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/FAISS-151515?style=flat&logo=meta&logoColor=0467DF" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/OpenCV-151515?style=flat&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/SpaCy-151515?style=flat&logo=spacy&logoColor=09A3D5" alt="SpaCy"/>
 </p>
 
 #### Tools & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-–?style=flat&logo=fastapi&logoColor=white&labelColor=111&color=111" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-–?style=flat&logo=flask&logoColor=white&labelColor=111&color=111" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Streamlit-–?style=flat&logo=streamlit&logoColor=white&labelColor=111&color=111" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/AWS-–?style=flat&logo=amazon-aws&logoColor=white&labelColor=111&color=111" alt="AWS"/>
-  <img src="https://img.shields.io/badge/MLflow-–?style=flat&logo=mlflow&logoColor=white&labelColor=111&color=111" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Git-–?style=flat&logo=git&logoColor=white&labelColor=111&color=111" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-–?style=flat&logo=linux&logoColor=white&labelColor=111&color=111" alt="Linux"/>
+  <img src="https://img.shields.io/badge/FastAPI-151515?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-151515?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-151515?style=flat&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/AWS-151515?style=flat&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/MLflow-151515?style=flat&logo=mlflow&logoColor=0194E2" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Git-151515?style=flat&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-151515?style=flat&logo=linux&logoColor=FCC624" alt="Linux"/>
 </p>
 
-<br>
 
+#### Connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/reeha-parkar">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
