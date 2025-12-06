@@ -51,6 +51,9 @@
   <img src="https://img.shields.io/badge/TensorFlow-151515?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-151515?style=flat&logo=keras&logoColor=D00000" alt="Keras"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-151515?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-151515?style=flat&logo=numpy&logoColor=4d77cf" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-151515?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-151515?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
   <br>
   <img src="https://img.shields.io/badge/Hugging_Face-151515?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/LangChain-151515?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
