@@ -4,18 +4,22 @@
 
 ## 🔍 About me
 
-- **MSc Artificial Intelligence** at King’s College London (2024–25)  
-- **ML Research Intern** at King’s Forensics — Applying AI to enhance forensic science methodologies  
+- **Agentic AI Engineer** — Building multi-step AI agents, Agent Skills & LLM evaluation frameworks
+- **MSc Artificial Intelligence** at King’s College London (2024–25) ~ _Graduated with Distinction_
+- **ML Researcher** at King’s College London — Developed ML pipelines for forensic analysis; first-author published researcher
 - Dissertation: *Enhancing Contrastive Reconstruction for Multimodal Emotion Recognition with Temporal Preservation*  
-- Former **Business Analyst (NVIDIA Practice, Quantiphi)** — Designed AI solution architectures and adoption roadmaps for global enterprise clients
-- Experienced in both **enterprise AI consulting** and **building end-to-end ML systems** (GenAI, NLP, Multimodal Learning, RAG, HPC)  
+- Former **AI Solutions Engineer** — Designed and deployed enterprise AI solutions, from architecture to implementation
 - B.E. Electronics Engineering with AI/ML Specialization, D. J. Sanghvi College of Engineering, Mumbai
+
+## ✨ Beyond the Titles 
+
+- Experienced in both **enterprise AI consulting** and **building end-to-end ML systems** (GenAI, NLP, Multimodal Learning, RAG, HPC)  
+- LangChain Certified Agent Engineer | Google Certified Gemini Enterprise Agent Development Specialist
 
 ## 🚀 Ongoing . . .
 
-- Currently exploring **Agentic RAG systems** — integrating retrieval, orchestration, and evaluation for robust GenAI workflows
-- Passionate about bridging **applied AI research with real-world deployment**, creating scalable and impactful systems  
-
+- Building reliable Agentic AI systems through orchestration and evaluation
+- Bridging AI engineering and enterprise strategy to deliver practical AI solutions 
 
 
 
@@ -33,6 +37,7 @@
 </p>
 -->
 
+
 ## ⚙️ Tech stack
 
 #### Languages
@@ -45,21 +50,25 @@
   <img src="https://img.shields.io/badge/Bash-151515?style=flat&logo=gnu-bash&logoColor=4EAA25" alt="Bash"/>
 </p>
 
-#### AI, Gen AI & LLMs
+#### AI, GenAI & LLMs
 <p align="left">
+  <img src="https://img.shields.io/badge/LangChain-151515?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-151515?style=flat&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangSmith-151515?style=flat&logo=langchain&logoColor=white" alt="LangSmith"/>
+  <img src="https://img.shields.io/badge/Deep_Agents-151515?style=flat&logo=langchain&logoColor=white" alt="Deep Agents"/>
+  <img src="https://img.shields.io/badge/Google_ADK-151515?style=flat&logo=google&logoColor=4285F4" alt="Google ADK"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-151515?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Ollama-151515?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/FAISS-151515?style=flat&logo=meta&logoColor=0467DF" alt="FAISS"/>
+  <br>
   <img src="https://img.shields.io/badge/PyTorch-151515?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-151515?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-151515?style=flat&logo=keras&logoColor=D00000" alt="Keras"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-151515?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/NumPy-151515?style=flat&logo=numpy&logoColor=4d77cf" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-151515?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SciPy-151515?style=flat&logo=scipy&logoColor=8CAAE6" alt="SciPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-151515?style=flat&logo=python&logoColor=11557C" alt="Matplotlib"/>
-  <br>
-  <img src="https://img.shields.io/badge/Hugging_Face-151515?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-151515?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Ollama-151515?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/LangGraph-151515?style=flat&logo=python&logoColor=3776AB" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/FAISS-151515?style=flat&logo=meta&logoColor=0467DF" alt="FAISS"/>
   <img src="https://img.shields.io/badge/OpenCV-151515?style=flat&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/SpaCy-151515?style=flat&logo=spacy&logoColor=09A3D5" alt="SpaCy"/>
 </p>
@@ -69,11 +78,16 @@
   <img src="https://img.shields.io/badge/FastAPI-151515?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-151515?style=flat&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Streamlit-151515?style=flat&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/AWS-151515?style=flat&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-151515?style=flat&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-151515?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS_Bedrock-151515?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS Bedrock"/>
+  <img src="https://img.shields.io/badge/NVIDIA_AI_Enterprise-151515?style=flat&logo=nvidia&logoColor=76B900" alt="NVIDIA AI Enterprise"/>
   <img src="https://img.shields.io/badge/MLflow-151515?style=flat&logo=mlflow&logoColor=0194E2" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-151515?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Git-151515?style=flat&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-151515?style=flat&logo=linux&logoColor=FCC624" alt="Linux"/>
 </p>
+
 
 
 #### Connect with me on LinkedIn:
