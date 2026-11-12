@@ -13,7 +13,7 @@
 
 ## ✨ Beyond the Titles 
 
-- Experienced in both **enterprise AI consulting** and **building end-to-end ML systems** (GenAI, NLP, Multimodal Learning, RAG, HPC)  
+- Experienced in both **enterprise AI consulting** and **building end-to-end ML systems** (Gen AI, Language, Computer Vision, Multimodal)  
 - LangChain Certified Agent Engineer | Google Certified Gemini Enterprise Agent Development Specialist
 
 ## 🚀 Ongoing . . .
