@@ -23,11 +23,11 @@
 
 
 
-## 📸 Snapshot
+<!-- ## 📸 Snapshot
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reeha-parkar&theme=whatsapp-dark&type=png)](https://git.io/streak-stats)
 
-
+-->
 
 <!--
 <p align="left">
@@ -88,6 +88,14 @@
   <img src="https://img.shields.io/badge/Linux-151515?style=flat&logo=linux&logoColor=FCC624" alt="Linux"/>
 </p>
 
+## 📄 Research Publications
+
+<a href="https://www.researchgate.net/profile/Reeha-Parkar">
+  <img src="https://img.shields.io/badge/ResearchGate-151515?style=flat&logo=researchgate&logoColor=00CCBB" alt="ResearchGate"/>
+</a>
+<a href="https://doi.org/10.1016/j.dib.2026.112594">
+  <img src="https://img.shields.io/badge/Data_in_Brief-151515?style=flat&logo=elsevier&logoColor=FF6C00" alt="Data in Brief"/>
+</a>
 
 
 #### Connect with me on LinkedIn:
